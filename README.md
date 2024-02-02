@@ -29,6 +29,7 @@ Based on the report insights ,here are the outcomes of the sales :-
 
   92.25% of orders are marked as "Delivered".
   The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
+
 4.Top 10 states :
 
 5.The adult age group (30-49 yrs) made the most contributions.
