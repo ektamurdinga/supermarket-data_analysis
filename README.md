@@ -20,10 +20,14 @@ The project also answered important questions such as :-
 7.Top clothings category got the highest number of order ?
 
 Based on the report insights ,here are the outcomes of the sales :-
-1.In my report, I found that March has the highest sales and order numbers, while November has the lowest. Additionally, there is a noticeable decline 
-  in sales and order quantities after March.
+
+1.In my report, I found that March has the highest sales and order numbers, while November has the 
+  lowest. Additionally, there is a noticeable decline 
+   in sales and order quantities after March.
+
 
 2.Women are more likely to purchase (69%) than men.
+
 
 3.In my dataset, the different order statuses are primarily categorized as:
 
