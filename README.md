@@ -1,14 +1,17 @@
-Project Name: Supermarket Data_Analysis
-
-Objective:
-Supermarket chains or individual stores are the targeted audience.They could use it to manage their chain of stores and maintain clear records and analyse their sales and increase their profit. 
-Since everything is online it would be convenient to sync all the data across various stores at different locations.
-
-Summary: 
-Supermarket management system is the system where all the aspects related to the proper management of supermarkets are done. 
-These aspects involve managing information about the various products, staff, managers, customers, billing etc. 
-This system provides an efficient way of managing the supermarket information. Also allows the customer to purchase and pay for the items purchased.
-This project is based on the sales transaction and billing of items in a supermarket. 
-The first activity is based on adding the items to the system along with the rate which are present in the supermarket and the name of the items which the supermarket will agree to sell. 
-This authority is given only to the product manager. Any modifications to be done in the item name and the rate can be done only by him. He also has the right to delete any item. 
-As the customer buys the products and comes to the billing counter, the user is supposed to enter the item name he purchased and the quantity of the item he had purchased.
+Super Market Data Analysis
+Introduction :
+The "Supermarket Sales Analysis" project was undertaken with the objective of assisting the store in generating a comprehensive annual sales report, understanding customer behavior, and enhancing overall customer sales. The project involved a series of tasks, including gaining insights into the data, cleaning and preprocessing the data, conducting in-depth analyses, creating visual representations, and compiling a detailed report. The primary focus was on uncovering patterns in customer behavior that could be leveraged to boost sales. The project encompassed a thorough exploration of the data, ensuring its accuracy and completeness, followed by advanced analytics and the creation of informative visualizations. The ultimate goal is to provide the store with actionable insights that can drive strategic decisions and contribute to the growth and optimization of sales operations.
+This project includes steps as follows :
+Data Understanding the Problems
+Data Cleaning
+Data Preprocessing
+Explotory data analysis (EDA)
+Data visualization with Dashboard & insights
+The project also answered important questions such as :-
+Compare the Sales and orders using chart?
+Who purchased more , men or women in 2022 ?
+What are different order statuses ?
+Which are the top 10 states contributing to sales?
+What is the relation between age and gender based on the number of orders?
+Which channel is contributing maximum sales ?
+Top clothings category got the highest number of order ?
