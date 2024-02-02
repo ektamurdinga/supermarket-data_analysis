@@ -11,12 +11,20 @@ Explotory data analysis (EDA)
 Data visualization with Dashboard & insights
 
 The project also answered important questions such as :-
+
 1.Compare the Sales and orders using chart?
+
 2.Who purchased more , men or women in 2022 ?
+
 3.What are different order statuses ?
+
 4.Which are the top 10 states contributing to sales?
+
+
 5.What is the relation between age and gender based on the number of orders?
+
 6.Which channel is contributing maximum sales ?
+
 7.Top clothings category got the highest number of order ?
 
 Based on the report insights ,here are the outcomes of the sales :-
